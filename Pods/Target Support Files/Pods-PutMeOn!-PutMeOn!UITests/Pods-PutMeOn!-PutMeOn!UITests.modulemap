@@ -1,0 +1,6 @@
+framework module Pods_PutMeOn__PutMeOn_UITests {
+  umbrella header "Pods-PutMeOn!-PutMeOn!UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

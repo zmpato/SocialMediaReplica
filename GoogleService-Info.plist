@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>492480446675-nfc77o30r8qog7tara5qlu46lqscd9ss.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.492480446675-nfc77o30r8qog7tara5qlu46lqscd9ss</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgOCcd_b3OdoNNe4vi-FxV4ENo2E9SEBE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>492480446675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>IOSZM678.PutMeOn-</string>
+	<key>PROJECT_ID</key>
+	<string>put-me-on</string>
+	<key>STORAGE_BUCKET</key>
+	<string>put-me-on.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:492480446675:ios:c6b77da8780aeecc0cd426</string>
+	<key>DATABASE_URL</key>
+	<string>https://put-me-on.firebaseio.com</string>
+</dict>
+</plist>
